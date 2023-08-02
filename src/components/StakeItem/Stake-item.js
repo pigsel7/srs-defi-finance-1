@@ -397,7 +397,7 @@ export const StakeItem = ({
           </span>
           </StyledStakeItemHelp>
           </StyledAPR>
-          <p> {APR ? `${APR}%` : '-' }</p>
+          <p> { APR ? `${APR}%` : '-' }</p>
       </StyledStakeItemRow>
       <StyledStakeItemRowWithButton>
           <StyledStakeItemTextWithButton>
